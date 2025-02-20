@@ -15,3 +15,9 @@ npm install
 && node server.js
 </pre>
 
+# Backend for python 
+<pre>
+cd python-backend
+pip install websockets
+python server.py
+</pre>
